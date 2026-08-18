@@ -1,10 +1,10 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://iiif-manifest.lib.uchicago.edu/ark:61001/b2fg31g9f64t.json",
+  "id": "https://iiif-manifest.lib.uchicago.edu/ark:61001/b2fg31g9f64t",
   "type": "Manifest",
   "behavior": ["unordered"],
   "label": { "en": ["In Perseus and Taurus"] },
-  "rights": ["http://rightsstatements.org/page/NKC/1.0/"],
+  "rights": "http://rightsstatements.org/vocab/NKC/1.0/",
   "requiredStatement": {
     "label": { "en": ["Attribution"] },
     "value": { "en": ["holding-institution"]}
